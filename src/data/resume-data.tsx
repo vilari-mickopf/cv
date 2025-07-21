@@ -12,7 +12,7 @@ export const RESUME_DATA = {
     "Software Engineer focused on building products with extra attention to detail.",
   summary:
     "As a Software Engineer with almost 7 years of experience, I have successfully taken multiple products from 0 to 1. I have worked on a variety of projects and technologies, including embedded engineering, applicative programming, machine learning, and radar algorithm development. I am always striving to learn new things.",
-  avatarUrl: "https://media.licdn.com/dms/image/C4D03AQFuOltrq4IqMA/profile-displayphoto-shrink_800_800/0/1565674875396?e=1727308800&v=beta&t=ytM2KConvlJB70Dgfbbn6415kqx0ewJLarYY5bKi_Ho",
+  avatarUrl: "https://avatars.githubusercontent.com/u/39714069?v=4",
   contact: {
     email: "f12markovic@gmail.com",
     tel: "+381645663661",
